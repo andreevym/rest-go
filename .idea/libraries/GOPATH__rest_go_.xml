@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;rest-go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../keystore" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../.cop" />
+      <root url="file://$PROJECT_DIR$/../../registerrequest" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../cop_config" />
+      <root url="file://$PROJECT_DIR$/../../pprb" />
+      <root url="file://$PROJECT_DIR$/../../test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../keystore" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../.cop" />
+      <root url="file://$PROJECT_DIR$/../../registerrequest" />
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../cop_config" />
+      <root url="file://$PROJECT_DIR$/../../pprb" />
+      <root url="file://$PROJECT_DIR$/../../test" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
